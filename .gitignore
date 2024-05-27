@@ -1,0 +1,7 @@
+.venv/
+*.env
+.streamlit/
+exrea.txt
+secrets.toml
+.streamlit/
+__pycache__/
